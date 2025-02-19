@@ -8,7 +8,6 @@
 ### 💡 Skills & Interests  
 - Unity (C#)  
 - Game Development & Optimization  
-- OpenStreetMap Integration  
 - Raspberry Pi & Embedded Systems  
 - Python & Automation  
 
