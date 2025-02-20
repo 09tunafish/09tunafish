@@ -1,13 +1,9 @@
 # 💫 About Me:
 🔭 I'm a passionate developer working on Unity game development and Raspberry Pi projects. 
 
-### 🔥 Current Projects  
-- 🎮 **2D Unity Car Delivery Game** – Procedurally generated delivery points, OpenStreetMap integration, and optimized road generation.  
-- 🍓 **Raspberry Pi Experiments** – Exploring IoT, automation, and creative hardware projects.  
-
 ### 💡 Skills & Interests  
 - Unity (C#)  
-- Game Development & Optimization  
+- Game Development
 - Raspberry Pi & Embedded Systems  
 - Python & Automation  
 
